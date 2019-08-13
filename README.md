@@ -41,8 +41,16 @@ I'm far from a skilled programmer, so the code for this may be ugly. As far as I
 This mod doesn't include mini-AVC, but it has a version file that allow version checking trough the [KSP-AVC Plugin](http://forum.kerbalspaceprogram.com/threads/79745).
 
 #### Licensing
+##### Original License
 This masterful work of art is released under the [unlicense](http://unlicense.org/). 
 So public domain, feel free to do anything, especially updating this plugin if I'm not around.
+
+##### Updated License
+### CC 4.0 BY-NC-SA  
+
+![[CC 4.0 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "CC 4.0 BY-NC-SA")
+
+Creative Commons Attribution-ShareAlike 4.0 International Public License
 
 ### See changelog for changes
 
