@@ -19,6 +19,7 @@ Note that **the plugin doesn't add any upgrades**. If you want to have them in y
 - (bonus feature) Non-stock modules using cost/mass modifiers should have their modifiers taken into account too.
 
 #### Upgrades selection
+# THIS feature IS MOST LIKELY *not* WORKING. MIGHT NEVER WORK. 
 - This allow to customize which upgrades are applied to placed parts in all modes (Career, Science and Sandbox)
 - Parts with upgrades now have a clickable "upgrade widget" in the tool tip widget list
 - Clicking on the widget show a list of upgrade widgets that can be toggled to enable/disable upgrades for this part
