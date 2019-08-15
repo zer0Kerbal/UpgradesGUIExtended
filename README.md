@@ -3,7 +3,7 @@
 ![UpgradesGUISExtended](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
 
 # Upgrades GUI - Extended
-Continuation of ![UpgradesUIExtensions](https://forum.kerbalspaceprogram.com/index.php?/topic/158081-122-upgradesgui-v15-upgrades-info-and-selection-in-vabsph-part-tooltips/) by (first by @GOT), now continued by *zer0Kerbal* with community support.
+Continuation of ![UpgradesUIExtensions](https://forum.kerbalspaceprogram.com/index.php?/topic/158081-122-upgradesgui-v15-upgrades-info-and-selection-in-vabsph-part-tooltips/) by (first by @GOTMachine), now continued by *zer0Kerbal* with community support.
 
 This plugin is a collections of interface tweaks aimed at making the part/module upgrades feature introduced in 1.2 more user-friendly.
 Note that **the plugin doesn't add any upgrades**. If you want to have them in your game you need to download other mods that implement the upgrade feature.
