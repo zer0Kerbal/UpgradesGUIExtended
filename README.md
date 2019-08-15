@@ -1,5 +1,6 @@
 ![UpgradesGUISExtended](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square) 
 ![UpgradesGUISExtended](https://img.shields.io/badge/MOD%20version-1.5.0.2-orange.svg?style=flat-square)
+![UpgradesGUISExtended](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
 
 # Upgrades GUI - Extended
 Continuation of ![UpgradesUIExtensions](https://forum.kerbalspaceprogram.com/index.php?/topic/158081-122-upgradesgui-v15-upgrades-info-and-selection-in-vabsph-part-tooltips/) by (first by @GOT), now continued by *zer0Kerbal* with community support.
