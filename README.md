@@ -1,8 +1,9 @@
 ![UpgradesGUISExtended](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square) 
 ![UpgradesGUISExtended](https://img.shields.io/badge/MOD%20version-1.5.0.2-orange.svg?style=flat-square)
+![UpgradesGUISExtended](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
 
 # Upgrades GUI - Extended
-Continuation of ![UpgradesUIExtensions](https://forum.kerbalspaceprogram.com/index.php?/topic/158081-122-upgradesgui-v15-upgrades-info-and-selection-in-vabsph-part-tooltips/) by (first by @GOT), now continued by *zer0Kerbal* with community support.
+Continuation of ![UpgradesUIExtensions](https://forum.kerbalspaceprogram.com/index.php?/topic/158081-122-upgradesgui-v15-upgrades-info-and-selection-in-vabsph-part-tooltips/) by (first by @GOTMachine), now continued by *zer0Kerbal* with community support.
 
 This plugin is a collections of interface tweaks aimed at making the part/module upgrades feature introduced in 1.2 more user-friendly.
 Note that **the plugin doesn't add any upgrades**. If you want to have them in your game you need to download other mods that implement the upgrade feature.
@@ -19,6 +20,7 @@ Note that **the plugin doesn't add any upgrades**. If you want to have them in y
 - (bonus feature) Non-stock modules using cost/mass modifiers should have their modifiers taken into account too.
 
 #### Upgrades selection
+# THIS feature IS MOST LIKELY *not* WORKING. MIGHT NEVER WORK. 
 - This allow to customize which upgrades are applied to placed parts in all modes (Career, Science and Sandbox)
 - Parts with upgrades now have a clickable "upgrade widget" in the tool tip widget list
 - Clicking on the widget show a list of upgrade widgets that can be toggled to enable/disable upgrades for this part
@@ -41,8 +43,16 @@ I'm far from a skilled programmer, so the code for this may be ugly. As far as I
 This mod doesn't include mini-AVC, but it has a version file that allow version checking trough the [KSP-AVC Plugin](http://forum.kerbalspaceprogram.com/threads/79745).
 
 #### Licensing
+##### Original License
 This masterful work of art is released under the [unlicense](http://unlicense.org/). 
 So public domain, feel free to do anything, especially updating this plugin if I'm not around.
+
+##### Updated License
+### CC 4.0 BY-NC-SA  
+
+![[CC 4.0 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "CC 4.0 BY-NC-SA")
+
+Creative Commons Attribution-ShareAlike 4.0 International Public License
 
 ### See changelog for changes
 
